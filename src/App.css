@@ -1,0 +1,208 @@
+.boxbody {
+  background-color: #504e4e/*#282c34*/;
+  color: white;
+  padding: 40px;
+  width: 100%;
+  font-family: Arial;
+  text-align: center;
+}
+
+.flex-left{
+  float: left;
+  width: 50%;
+}
+
+.flex-right{
+  float: right;
+  width: 50%;
+}
+
+
+.avatardiv1{
+  height: 320px;
+  float: left;
+  padding: 10px;
+}
+
+.avatardiv2{
+  height: 320px;
+  float: left;
+  padding: 10px;
+}
+
+.avatar-radar-child1 {
+  height: 320px;
+  width: 25%;
+  float: left;
+  padding: 10px;
+}  
+
+.avatar-radar-child2 {
+  height: 320px;
+  width: 25%;
+  float: left;
+  padding: 10px;
+}  
+
+
+
+
+
+
+
+
+
+
+.Rchip{
+  font-size:22px;
+  font-Weight: bold;
+  width: 160px;
+  height: 40px;
+  background-color:#D68910;
+  color: black;
+  padding: 20px;
+  border-radius: 5px;
+  outline: 0;
+  text-transform: uppercase;
+  margin: 10px 0px;
+  cursor: pointer;
+  box-shadow: 0px 2px 2px lightgray;
+  transition: ease background-color 250ms;
+  
+}
+
+.Wchip{
+  font-size:22px;
+  font-Weight: bold;
+  width: 160px;
+  height: 40px;
+  background-color:#ad1457;
+  color: black;
+  padding: 20px;
+  border-radius: 5px;
+  outline: 0;
+  text-transform: uppercase;
+  margin-left: 0.25rem;
+  margin: 10px 0px;
+  cursor: pointer;
+  box-shadow: 0px 2px 2px lightgray;
+  transition: ease background-color 250ms;
+  
+}
+
+.raymondname{
+  font-size:26px;
+  font-Weight: bold;
+}
+
+.wencyname{
+  font-size:26px;
+  font-Weight: bold;
+}
+
+.raymondJing{
+  position: relative;
+  top: 14%;
+  left: 40%;
+}
+
+.wencyLee{
+  position: relative;
+  top: 14%;
+  left: 35%;
+}
+
+
+
+
+
+.raymondbalance{
+  position: relative;
+  font-style:italic;
+  font-size:38px;
+  font-Weight: bold; 
+}
+
+.wencybalance{
+  position: relative;
+  font-style:italic;
+  font-size:38px;
+  font-Weight: bold;
+}
+
+
+.RBet{
+  position: relative;
+  font-size:26px;
+  font-Weight: bold;
+  color: #F1C40F
+}
+
+.WBet{
+  position: relative;
+  font-size:26px;
+  font-Weight: bold;
+  color: #e91e63
+}
+
+.RBetvalue{
+  position: relative;
+  font-size:54px;
+  font-Weight: bold;
+  color: #F1C40F
+}
+
+.WBetvalue{
+  position: relative;
+  font-size:54px;
+  font-Weight: bold;
+  color: #e91e63
+}
+
+.settle{
+  font-size:22px;
+  font-Weight: bold;
+  width: 160px;
+  height: 40px;
+  background-color:#D22910;
+  color: black;
+  padding: 20px;
+  border-radius: 5px;
+  outline: 0;
+  text-transform: uppercase;
+  margin: 10px 0px;
+  cursor: pointer;
+  box-shadow: 0px 2px 2px lightgray;
+  transition: ease background-color 250ms;
+}
+
+.texas{
+  font-size:24px;
+}
+
+.Deck-of-cards{
+  text-align: left;
+  display: 'inline';
+  color: tomato;
+  font-size:36px;
+}
+
+.pokerheader{
+  position: relative;
+  top: 0;
+  left: 0; 
+}
+
+.rechartline{
+    margin : 0 auto;
+}
+
+.gameresults{
+  color: #FFFFFF;
+  font-size:36px;
+}
+
+.gameresultsChart{
+  color: #FFFFFF;
+  font-size:24px;
+}
