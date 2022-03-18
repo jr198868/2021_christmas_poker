@@ -15,10 +15,8 @@ import ChevronRightIcon from '@mui/icons-material/ChevronRight';
 import ListItem from '@mui/material/ListItem';
 import ListItemIcon from '@mui/material/ListItemIcon';
 import ListItemText from '@mui/material/ListItemText';
-import InboxIcon from '@mui/icons-material/MoveToInbox';
 import SportsEsportsIcon from '@mui/icons-material/SportsEsports';
 import EqualizerIcon from '@mui/icons-material/Equalizer';
-import InsightsIcon from '@mui/icons-material/Insights';
 import App from './App';
 import Fragement from './Fragement';
 

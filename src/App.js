@@ -3,9 +3,7 @@ import './App.css';
 import Avatar from "@material-ui/core/Avatar";
 import IMG163 from './image/IMG163.jpg';
 import IMG164 from './image/IMG164.jpg';
-import { useRef } from "react";
 import { LineChart, Line, RadialBar, YAxis, XAxis, CartesianGrid, Tooltip, Legend } from 'recharts';
-import { makeStyles, Grid } from '@material-ui/core';
 import {
 	Radar,
 	RadarChart,
@@ -14,22 +12,6 @@ import {
 	PolarRadiusAxis
   } from "recharts";
   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 var store_historical_data = [];
 const profile = [

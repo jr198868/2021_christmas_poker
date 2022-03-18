@@ -1,0 +1,11 @@
+# dir 
+/node_modules
+​
+# file 
+config.ini
+​
+# log 
+*.log
+​
+# Package Files
+*.jar

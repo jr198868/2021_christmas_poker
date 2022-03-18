@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
 import PokerBody from './PokerBody';
 import reportWebVitals from './reportWebVitals';
 
