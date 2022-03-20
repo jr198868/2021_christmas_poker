@@ -1,11 +1,11 @@
-# Getting Started with Create React App
+# 2021 Christmas Poker
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Project Structure
 
 ```sh
-> 2021_christmas_poker/
+2021_christmas_poker/
         .
         ├── README.md
         ├── package-lock.json
@@ -29,12 +29,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 > 3 directories, 15 files
 ```
 
+## How to use:
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
+```sh
+cd 2021_christmas_poker/
+npm start
+```
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
