@@ -5,6 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Project Structure
 
 2021_christmas_poker/
+.
 ├── README.md
 ├── package-lock.json
 ├── package.json
