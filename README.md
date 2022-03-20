@@ -4,6 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Project Structure
 
+```sh
 > 2021_christmas_poker/
         .
         ├── README.md
@@ -26,7 +27,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
             └── reportWebVitals.js
 
 > 3 directories, 15 files
-
+```
 
 
 ## Available Scripts
