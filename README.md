@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Project Structure
+## Project Structure 🚀
 
 ```sh
 2021_christmas_poker/
@@ -29,11 +29,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 > 3 directories, 15 files
 ```
 
-## How to use:
+## How to use: 🚀
 
 ```sh
-cd 2021_christmas_poker/
-npm start
+$ git clone https://github.com/jr198868/2021_christmas_poker.git
+$ npm install package.json
+$ cd 2021_christmas_poker/
+$ npm start
 ```
 
 Runs the app in the development mode.\
