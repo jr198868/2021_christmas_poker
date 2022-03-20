@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Project Structure
 
-2021_christmas_poker/
+> 2021_christmas_poker/
 .
 ├── README.md
 ├── package-lock.json
@@ -25,7 +25,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
     ├── index.js
     └── reportWebVitals.js
 
-3 directories, 15 files
+> 3 directories, 15 files
 
 
 
