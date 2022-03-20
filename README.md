@@ -5,25 +5,25 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Project Structure
 
 > 2021_christmas_poker/
-.
-├── README.md
-├── package-lock.json
-├── package.json
-├── public
-│   ├── index.html
-│   └── robots.txt
-└── src
-    ├── App.css
-    ├── App.js
-    ├── Fragement.js
-    ├── PokerBody.js
-    ├── image
-    │   ├── IMG163.jpg
-    │   ├── IMG164.jpg
-    │   └── poker.png
-    ├── index.css
-    ├── index.js
-    └── reportWebVitals.js
+        .
+        ├── README.md
+        ├── package-lock.json
+        ├── package.json
+        ├── public
+        │   ├── index.html
+        │   └── robots.txt
+        └── src
+            ├── App.css
+            ├── App.js
+            ├── Fragement.js
+            ├── PokerBody.js
+            ├── image
+            │   ├── IMG163.jpg
+            │   ├── IMG164.jpg
+            │   └── poker.png
+            ├── index.css
+            ├── index.js
+            └── reportWebVitals.js
 
 > 3 directories, 15 files
 
