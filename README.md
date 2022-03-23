@@ -7,6 +7,13 @@ Juha Lindstedt's GitHub repository: https://github.com/deck-of-cards/deck-of-car
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+
+
+![alt text](https://github.com/jr198868/imag_test/blob/main/web_development.png)
+
+
+
 ## Project Structure 🚀
 
 ```sh
