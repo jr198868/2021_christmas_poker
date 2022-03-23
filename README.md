@@ -8,7 +8,7 @@ Juha Lindstedt's GitHub repository: https://github.com/deck-of-cards/deck-of-car
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-
+## About The Project 🚀
 
 ![alt text](https://github.com/jr198868/2021_christmas_poker/blob/main/src/image/2021%20Christmas%20Poker.jpeg)
 
