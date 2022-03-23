@@ -10,7 +10,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 
-![alt text](https://github.com/jr198868/imag_test/blob/main/web_development.png)
+![alt text](https://github.com/jr198868/2021_christmas_poker/blob/main/src/image/2021%20Christmas%20Poker.jpeg)
 
 
 
