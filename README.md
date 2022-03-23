@@ -31,7 +31,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
             ├── index.js
             └── reportWebVitals.js
 
-> 3 directories, 15 files
+3 directories, 15 files
 ```
 
 ## Getting Started 🚀
