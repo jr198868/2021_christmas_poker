@@ -3,7 +3,7 @@
 The Poker card (Deck-of-cards) used in this project is from 
 Juha Lindstedt's GitHub repository: https://github.com/deck-of-cards/deck-of-cards
 
-Alive demo: https://jr198868.github.io/2021_christmas_poker/
+Live demo: https://jr198868.github.io/2021_christmas_poker/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
