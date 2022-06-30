@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/2021_christmas_poker/static/css/main.31f9063a.css",
+    "main.js": "/2021_christmas_poker/static/js/main.2ca3d0f3.js",
+    "static/js/787.b5cc702d.chunk.js": "/2021_christmas_poker/static/js/787.b5cc702d.chunk.js",
+    "static/media/poker.png": "/2021_christmas_poker/static/media/poker.b69a307b4d0e80207f09.png",
+    "static/media/IMG163.jpg": "/2021_christmas_poker/static/media/IMG163.24ef06601676332d44c3.jpg",
+    "static/media/IMG164.jpg": "/2021_christmas_poker/static/media/IMG164.e747d5d584f019dfcc5d.jpg",
+    "index.html": "/2021_christmas_poker/index.html",
+    "main.31f9063a.css.map": "/2021_christmas_poker/static/css/main.31f9063a.css.map",
+    "main.2ca3d0f3.js.map": "/2021_christmas_poker/static/js/main.2ca3d0f3.js.map",
+    "787.b5cc702d.chunk.js.map": "/2021_christmas_poker/static/js/787.b5cc702d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31f9063a.css",
+    "static/js/main.2ca3d0f3.js"
+  ]
+}

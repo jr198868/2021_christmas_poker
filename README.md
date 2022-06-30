@@ -1,7 +1,5 @@
 # 2021 Christmas Poker
 
-This is a romantic project for Wency Lee 👍
-
 The Poker card (Deck-of-cards) used in this project is from 
 Juha Lindstedt's GitHub repository: https://github.com/deck-of-cards/deck-of-cards
 
